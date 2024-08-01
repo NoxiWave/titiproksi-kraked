@@ -7,7 +7,7 @@ pajtona 3.12 i muzgu
 ## jak to dziala?!!
 wienc jakby to laczy sie z serwerami titiproksi.klub zlamalem zabezpieczenia i sie loguje z nickiem "mammalego89" z haslem "chujciwdupe99" to jest sekretne konto ktorego nikt nie urzywa, i nie da sie go zbanowac z powodow ze zrobione jest przez wlasciciela
 
-## dlacego nie moge urzyc tych danyh rzeby sie zalogowac
+## dlacego nie moge urzyc tych danyh rzeby sie zalogowac normalnie bez urzycia prokramu zasranego
 no bo trzeba sie połonczyć z bazom danych, inaczej sie nie da
 
 ## wesprzyj mnie!
